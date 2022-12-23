@@ -1,1 +1,1 @@
-# inspyre
+# getinspyre
