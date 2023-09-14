@@ -1,2 +1,2 @@
 # dbt-ELT
-![Project Structure](./dbt-ELT.jpg "a title")
+![Project Structure](./dbt_ELT.jpg "a title")
